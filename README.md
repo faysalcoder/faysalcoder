@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Faysal Sikder</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack | PHP | WordPress Expert</h3>
+<h3 align="center">Full Stack Web Developer | MERN Stack | RESTful API | PHP | WordPress Expert</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;WordPress+Custom+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;API Builder;WordPress+Custom+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **React & Node.js Projects**
+- 🔭 Currently working on **React , django, Native, API and Node.js Projects**
 - 🌱 Learning **Advanced Backend Architecture**
 - 💬 Ask me about **React, Node.js, PHP, WordPress**
 - ⚡ Fun fact: I love Ocean 🌊 & Traveling 🏔️
