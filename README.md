@@ -37,15 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faysalcoder&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalcoder&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180em"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -63,29 +55,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/faysalcoder/faysalcoder/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 AI Resume Analyzer
-AI-powered resume analysis platform using React + Node.js
-
-### 🔹 Personal Knowledge Vault
-Smart note & document management system
-
-### 🔹 E-Commerce Platform
-Full MERN stack ecommerce solution
-
-### 🔹 Certificate Generator
-Dynamic certificate generation platform
-
----
 
 ## ☕ Profile Views
 
