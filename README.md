@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer | MERN Stack | RESTful API | PHP | WordPress Expert</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;API Builder;WordPress+Custom+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;API+Builder;WordPress+Custom+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
